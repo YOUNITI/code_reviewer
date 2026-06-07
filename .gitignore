@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+reviews.db
+.env
+report_*.json
+test_report.html
